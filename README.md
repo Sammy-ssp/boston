@@ -19,6 +19,6 @@ Completing the Data Scientist Nanodegree Program with Udacity, I will do the fol
 7. Evaluation
 8. Communicate your business insights
 
-In order to share my insights and summarize my findings, i created a blog post on [Medium](https://blog.jovian.ai/3-must-have-projects-for-your-data-science-portfolio-9cbd1264edb4)
+In order to share my insights and summarize my findings, i created a blog post on [Medium](https://robsamm.medium.com/thats-why-being-a-superhost-is-not-the-most-important-fact-at-airbnb-c6f063b4a232)
 
 
