@@ -1,16 +1,12 @@
 
 ### Table of Contents
 
-1. [Welcome](#welcome)
-2. [Project Motivation](#motivation)
-3. [Requirements](#requirements)
-4. [Files in the Repository](#filesintherepository)
-5. [Results](#results)
-6. [Acknowledgements](#acknowledgements)
+1. [Project Motivation](#motivation)
+2. [Requirements](#requirements)
+3. [Files in the Repository](#filesintherepository)
+4. [Results](#results)
+5. [Acknowledgements](#acknowledgements)
 
-## Welcome <a name="welcome"></a>
-
-Welcome to this repo!
 
 ## Project Motivation <a name="motivation"></a>
 
